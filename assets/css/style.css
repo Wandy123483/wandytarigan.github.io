@@ -1,0 +1,28 @@
+h2,h1{
+    color:blue;
+    text-decoration:underline;
+}
+.kotak{
+    background-color: #000;
+    padding: 20px 30px;
+    text-align: center;
+    width:200px;
+    margin:10px auto;
+    color:#fff;
+    font-size: 32px;
+    border-radius: 20px;
+    box-shadow:rgba(176, 230, 15, 0.2) 0px 8px 24px;
+}
+.lingkaran{
+    width: 250px;
+    height: 250px;
+    background-color: #091636;
+    color:aliceblue;
+    border-radius:130px;
+    text-align: center;
+    font-size: 32px;
+    line-height: 250px;
+    box-shadow:10px 0px yellow;
+    background-image: url("an-seyoung.webp") ;
+    background-size: cover;
+}
